@@ -1,0 +1,1 @@
+This is a project for preparing me as a programmer
